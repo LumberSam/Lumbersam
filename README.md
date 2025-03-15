@@ -1,23 +1,19 @@
-![](https://komarev.com/ghpvc/?username=lumberdean&color=blue)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lumberdean&color=617f89&label=♡">
+</p>
 
-## $${\color{blue}HELLO!!}$$ $${\color{blue}IM}$$ $${\color{blue}DEAN!!}$$ $${\color{blue}OR}$$ $${\color{blue}SAM}$$ $${\color{blue}ON}$$ $${\color{blue}THIS}$$ $${\color{blue}ALT}$$ $${\color{blue}IF}$$ $${\color{blue}PREFERRED!!}$$
-<!--
-**lumberdean/lumberdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+# $${\color{#617f89}Hello!!}$$ $${\color{#617f89}I'm}$$ $${\color{#617f89}Dean!!}$$ $${\color{#617f89}Or}$$ $${\color{#617f89}Sam}$$ $${\color{#617f89}On}$$ $${\color{#617f89}This}$$ $${\color{#617f89}Alt}$$ $${\color{#617f89}If}$$ $${\color{#617f89}Preferred!!}$$ #
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84e9d0c6-0ab9-4a1e-af20-2f333bfb4fec/d7273bn-de9263e2-aba7-4028-b2a0-5caea315e751.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZTlkMGM2LTBhYjktNGExZS1hZjIwLTJmMzMzYmZiNGZlY1wvZDcyNzNibi1kZTkyNjNlMi1hYmE3LTQwMjgtYjJhMC01Y2FlYTMxNWU3NTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XdD-l_Ql2dGLR5xFdVT03tmpda7g8s2GmZ5SaL4oBCw"/>
 
-![image](https://64.media.tumblr.com/371f3b4ae166d701d8b604ed75d10016/087367c5945f7043-d2/s640x960/870f8959a67612541a2f39ee5d61faceb890f0b7.gif)
+<p align="center">
+# $${\color{lightblue}Check}$$ $${\color{lightblue}My}$$ $${\color{lightblue}Links}$$ $${\color{lightblue}For}$$ $${\color{lightblue}More}$$ $${\color{lightblue}About}$$ $${\color{lightblue}Me!!!}$$ #
+</p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31waoinuetthfmranoyj6kxp3bly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-## $${\color{lightblue}CHECK}$$ $${\color{lightblue}MY}$$ $${\color{lightblue}LINKS}$$ $${\color{lightblue}FOR}$$ $${\color{lightblue}MORE}$$ $${\color{lightblue}ABOUT}$$ $${\color{lightblue}ME!!!}$$
+<p align="center">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31waoinuetthfmranoyj6kxp3bly&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=617f89&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
+</p>
